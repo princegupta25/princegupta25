@@ -19,10 +19,6 @@
 
 
 
-
-
-
-##📫  How to reach me: mail me at [sh.princesmart.gupta@gmail.com](mailto:sh.princesmart.gupta@gmail.com)
 <br>
 
 ##  🛠 Tech Stack
