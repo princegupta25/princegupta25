@@ -1,4 +1,4 @@
-# <h1 align="right">Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
+# <h1 align="left">Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
 <!--
 **princegupta25/princegupta25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,10 @@
 
 #### I'm Prince Gupta, 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. <br> I am an Android Developer and exploring new technology.
  <br>
+
+
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="350px" />
+
  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400px" />
  
 ## 🧐 About
@@ -19,14 +23,6 @@
 
 <img align='right' src="https://i.pinimg.com/originals/53/71/2f/53712f9fa2e10657e355400cbbad9310.gif" width="260" height="230">
 
-I'm a 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**.I am an Android Developer and exploring new technology.
-
-I love **Brain Storming Sessions**💡 that helps me come up with **Optimised Solutions** for problems. 
-
-<!-- - 🛠 I’m currently focusing on **Data Structures and Algorithms** to get better at **Problem Solving Skills**. -->
-- 🔭 I'm Android Lead @ GDSC JSS.
--🌱 I love to learn new things and help others.
-- 💬I’m looking forward to contribute to **Open Source Projects**.
 
 
 ##📫  How to reach me: mail me at [sh.princesmart.gupta@gmail.com](mailto:sh.princesmart.gupta@gmail.com)
