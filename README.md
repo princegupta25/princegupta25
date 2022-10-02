@@ -1,7 +1,7 @@
 # <h1 align="left">Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"></h1>
 
 
-#### I'm Prince Gupta, 2nd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. <br> I am an Android Developer and exploring new technology.
+#### I'm Prince Gupta, 3rd year **Computer Science** student from **JSS Academy of Technical Education, Noida**. <br> I am an Android Developer and exploring new technology.
  <br>
 
 
